@@ -28,7 +28,7 @@
 ```
 algorithm-study
     ├── 1주차 BFS
-    |   └── README.md
+    |   └── list.md
     |   └── 범석
     |       ├── BOJ_2178
     |       └── ...
