@@ -2,6 +2,11 @@ package charlesuu;
 
 import java.util.Scanner;
 
+/*
+시간복잡도: O(N^4){가로 스왑, 배열 체크} + O(N^4){세로 스왑, 배열 체크}
+공간복잡도: O(N^2)
+*/
+
 public class BOJ_3085 {
     public static char[][] board;
     public static int N;
