@@ -27,19 +27,13 @@
 
 ```
 algorithm-study
-    ├── 1주차 BFS
+    ├── ...
+    ├── src/main/java
     |   └── list.md
-    |   └── 범석
-    |       ├── BOJ_2178
-    |       └── ...
-    |   └── 창현
-    |       ├── BOJ_2178
-    |       └── ...
-    |   └── 현호
-    |       ├── BOJ_2178
-    |       └── ...
-    ├── 2주차 DFS
-    |   └── ...
+    |   └── changhyeon
+    |   └── charlesuu
+    |   └── tommy
+    ├── ...
     ...
 ```
 
@@ -80,3 +74,6 @@ algorithm-study
 - DP
 - 최단거리(다익스트라)
 - 누적 합
+
+## 참고
+https://code.plus/course/51
