@@ -1,9 +1,13 @@
 package charlesuu;
 
 import java.util.Scanner;
+/*
+ 시간 복잡도 : O(N) == O((M * N) / M)
+ 공간 복잡도 : O(1) 
+ */
 
 public class BOJ_6064 {
-    //5 7 4 7
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
