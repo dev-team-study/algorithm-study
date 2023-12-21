@@ -7,8 +7,8 @@ import java.util.Arrays;
 
 
 /*
-    시간 복잡도:
-
+    시간 복잡도: O(N) -> 입력 값에 따른 N번의 반목문
+    공간 복잡도: O(1)
  */
 
 public class BOJ_6064 {
