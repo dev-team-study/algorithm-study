@@ -37,8 +37,8 @@ public class BOJ_9095 {
             return;
         }
 
-        dfs(target, sum + 1);
-        dfs(target, sum + 2);
-        dfs(target, sum + 3);
+        for (int i = 1; i <= 3; i++) {
+            dfs(target, sum + i);
+        }
     }
 }
