@@ -4,6 +4,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+
+/*
+    시간 복잡도: O(N) -> 재귀
+    공간 복잡도: O(1)
+ */
+
 public class BOJ_9095 {
 
     private static final BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
