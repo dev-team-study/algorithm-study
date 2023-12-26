@@ -4,6 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+ * 시간 복잡도: O(N!) -> DFS 재귀 알고리즘
+ * 공간 복잡도: O(N) -> 입력 값에 따른 배열 값
+ */
+
 public class BOJ_15650 {
 
     private static final BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
