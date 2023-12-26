@@ -4,6 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+ * 시간 복잡도: O(N)
+ * 공간 복잡도: O(N) -> 입력 값에 따른 배열 생성
+ */
+
 public class BOJ_15649 {
 
     private static final BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
