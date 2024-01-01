@@ -14,3 +14,11 @@
 ## 2주차
 
 ### 브루트포스
+
+[[실버3] N과 M(1)](https://www.acmicpc.net/problem/15649)
+[[실버3] N과 M(2)](https://www.acmicpc.net/problem/15650)
+[[실버3] N과 M(3)](https://www.acmicpc.net/problem/15651)
+[[실버1] NM과 K(1)](https://www.acmicpc.net/problem/18290)
+[[골드5] 암호 만들기](https://www.acmicpc.net/problem/1759)
+[[실버3] 퇴사](https://www.acmicpc.net/problem/14501)
+[[실버1] 스타트와 링크](https://www.acmicpc.net/problem/14889)
