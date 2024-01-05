@@ -5,6 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+/*
+ * 시간 복잡도 (N * N!)
+ * 공간 복잡도 (N)
+ */
+
 public class BOJ_6603 {
 
     private static final BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
