@@ -63,6 +63,7 @@ public class BOJ_6603 {
         for (int i = 0; i < LOTTO_MAX - 1; i++) {
             if (tempArr[i] > tempArr[i + 1]) {
                 flag = true;
+                break;
             }
         }
 
