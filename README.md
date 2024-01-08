@@ -102,6 +102,19 @@ algorithm-study
 [14. [실버3] 퇴사](https://www.acmicpc.net/problem/14501) <br>
 [15. [실버1] 스타트와 링크](https://www.acmicpc.net/problem/14889) <br>
 
+### 3주차
+
+#### 브루트포스
+
+[16. [실버1] 부등호](https://www.acmicpc.net/problem/2529) <br>
+[17. [실버3] 다음 순열](https://www.acmicpc.net/problem/10972) <br>
+[18. [실버3] 이전 순열](https://www.acmicpc.net/problem/10973) <br>
+[19. [실버3] 모든 순열](https://www.acmicpc.net/problem/10974) <br>
+[20. [실버2] 차이를 최대로](https://www.acmicpc.net/problem/10819) <br>
+[21. [실버2] 외판원 순회2](https://www.acmicpc.net/problem/10971) <br>
+[22. [실버2] 로또](https://www.acmicpc.net/problem/6603) <br>
+[23. [실버5] 집합](https://www.acmicpc.net/problem/11723) <br>
+
 ## 참고
 
 https://code.plus/course/51
