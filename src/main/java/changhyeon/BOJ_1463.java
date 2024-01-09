@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class BOJ_1463 {
 
     private static final BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-    private static int N, MAX_NUMBER = 1000000;
+    private static int N, MAX_NUMBER = 1000001;
     private static int[] dp;
 
     public static void main(String[] args) throws IOException {
