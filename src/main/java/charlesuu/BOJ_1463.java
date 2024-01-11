@@ -1,10 +1,5 @@
 package charlesuu;
 
-/*
-시간복잡도: O(N)
-공간복잡도: O(1)
-*/
-
 import java.util.Scanner;
 
 public class BOJ_1463 {
