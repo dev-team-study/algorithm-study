@@ -117,16 +117,16 @@ algorithm-study
 
 ### 4주차
 
-[[실버2] 부분수열의 합](https://www.acmicpc.net/problem/1182)
-[[실버3] 1로 만들기](https://www.acmicpc.net/problem/1463)
-[[실버3] 2xn 타일링](https://www.acmicpc.net/problem/11726)
-[[실버3] 2xn 타일링(2)](https://www.acmicpc.net/problem/11727)
-[[실버3] 1,2,3 더하기](https://www.acmicpc.net/problem/9095)
-[[실버1] 카드 구매하기](https://www.acmicpc.net/problem/11052)
-[[실버1] 카드 구매하기2](https://www.acmicpc.net/problem/16194)
-[[실버2] 1,2,3 더하기 5](https://www.acmicpc.net/problem/15990)
-[[실버1] 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
-[[실버2] 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+[[실버2] 부분수열의 합](https://www.acmicpc.net/problem/1182) <br>
+[[실버3] 1로 만들기](https://www.acmicpc.net/problem/1463) <br>
+[[실버3] 2xn 타일링](https://www.acmicpc.net/problem/11726) <br>
+[[실버3] 2xn 타일링(2)](https://www.acmicpc.net/problem/11727) <br>
+[[실버3] 1,2,3 더하기](https://www.acmicpc.net/problem/9095) <br>
+[[실버1] 카드 구매하기](https://www.acmicpc.net/problem/11052) <br>
+[[실버1] 카드 구매하기2](https://www.acmicpc.net/problem/16194) <br>
+[[실버2] 1,2,3 더하기 5](https://www.acmicpc.net/problem/15990) <br>
+[[실버1] 쉬운 계단 수](https://www.acmicpc.net/problem/10844) <br>
+[[실버2] 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) <br>
 
 ## 참고
 
