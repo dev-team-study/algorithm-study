@@ -5,6 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+/*
+ * 시간 복잡도: O(N)
+ * 공간 복잡도: O(N)
+ */
+
 public class BOJ_1912 {
 
     private static final BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
