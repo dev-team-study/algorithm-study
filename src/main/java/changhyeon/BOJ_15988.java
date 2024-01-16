@@ -10,7 +10,7 @@ public class BOJ_15988 {
 
     public static void main(String[] args) throws IOException {
         int count = Integer.parseInt(bufferedReader.readLine());
-        int[] dp = new int[1_000_001];
+        long[] dp = new long[1_000_001];
 
         dp[1] = 1;
         dp[2] = 2;
