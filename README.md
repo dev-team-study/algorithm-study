@@ -117,6 +117,8 @@ algorithm-study
 
 ### 4주차
 
+#### DP
+
 [[실버2] 부분수열의 합](https://www.acmicpc.net/problem/1182) <br>
 [[실버3] 1로 만들기](https://www.acmicpc.net/problem/1463) <br>
 [[실버3] 2xn 타일링](https://www.acmicpc.net/problem/11726) <br>
@@ -127,6 +129,24 @@ algorithm-study
 [[실버2] 1,2,3 더하기 5](https://www.acmicpc.net/problem/15990) <br>
 [[실버1] 쉬운 계단 수](https://www.acmicpc.net/problem/10844) <br>
 [[실버2] 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) <br>
+
+### 5주차
+
+#### DP
+
+[[실버2] 연속 합](https://www.acmicpc.net/problem/1912) <br>
+[[실버2] 제곱수의 합](https://www.acmicpc.net/problem/1699) <br>
+[[실버2] 1,2,3 더하기 3](https://www.acmicpc.net/problem/15988) <br>
+[[실버1] RGB거리](https://www.acmicpc.net/problem/1149) <br>
+[[실버1] 동물원](https://www.acmicpc.net/problem/1309) <br>
+[[실버1] 오르막 수](https://www.acmicpc.net/problem/11057) <br>
+
+#### 큐와 그래프
+
+[[실버4] 큐](https://www.acmicpc.net/problem/10845) <br>
+[[실버4] 덱](https://www.acmicpc.net/problem/10866) <br>
+[[실버2] DFS와 BFS](https://www.acmicpc.net/problem/1260) <br>
+[[실버2] 연결 요소의 개수](https://www.acmicpc.net/problem/11724) <br>
 
 ## 참고
 
