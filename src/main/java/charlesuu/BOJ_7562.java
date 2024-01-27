@@ -1,55 +1,58 @@
 package charlesuu;
 
+import java.util.ArrayDeque;
 import java.util.Arrays;
-import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
 public class BOJ_7562 {
-	
-	public static int[] dx = {-2, -1, 1, 2, 2, 1, -1, -2};
-	public static int[] dy = {1, 2, 2, 1, -1, -2, -2, -1};
+
+	public static int l;
+	private static int[][] dist;
+	private static int[] dX = {-2, -2, -1, 1, 2, 2, 1, -1};
+	private static int[] dY = {-1, 1, 2, 2, 1, -1, -2, -2};
 
 	public static void main(String args[]) {
+
 		Scanner sc = new Scanner(System.in);
-		int t = sc.nextInt();
+		StringBuilder sb = new StringBuilder();
 
-		for (int i = 0; i < t; i++) {
+		int T = sc.nextInt();
+		while (T-- > 0) {
+			l = sc.nextInt();
 
-			int n = sc.nextInt();
-			int sx = sc.nextInt();
-			int sy = sc.nextInt();
-			int ex = sc.nextInt();
-			int ey = sc.nextInt();
-
-			int[][] d = new int[n][n];
-
-			for (int j = 0; j < n; j++) {
-				Arrays.fill(d[j], -1);
+			dist = new int[l][l];
+			for (int i = 0; i < l; i++) {
+				Arrays.fill(dist[i], -1);
 			}
 
-			Queue<Integer> q = new LinkedList<>();
-			q.add(sx);
-			q.add(sy);
-			d[sx][sy] = 0;
+			int x = sc.nextInt();
+			int y = sc.nextInt();
+
+			Queue<Integer> q = new ArrayDeque<>();
+			q.add(x);
+			q.add(y);
+			dist[x][y] = 0;
 
 			while (!q.isEmpty()) {
-				int x = q.remove();
-				int y = q.remove();
-				for (int k = 0; k < 8; k++) {
-					int nx = x + dx[k];
-					int ny = y + dy[k];
-					if (0 <= nx && nx < n && 0 <= ny && ny < n) {
-						if (d[nx][ny] == -1) {
-							d[nx][ny] = d[x][y] + 1;
-							q.add(nx);
-							q.add(ny);
+				x = q.poll();
+				y = q.poll();
+				for (int i = 0; i < 8; i++) {
+					int nX = x + dX[i];
+					int nY = y + dY[i];
+
+					if (0 <= nX && nX < l && 0 <= nY && nY < l) {
+						if (dist[nX][nY] == -1) {
+							q.add(nX);
+							q.add(nY);
+
+							dist[nX][nY] = dist[x][y] + 1;
 						}
 					}
 				}
 			}
-
-			System.out.println(d[ex][ey]);
+			sb.append(dist[sc.nextInt()][sc.nextInt()]).append("\n");
 		}
+		System.out.println(sb);
 	}
 }
