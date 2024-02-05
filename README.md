@@ -148,6 +148,35 @@ algorithm-study
 [[실버2] DFS와 BFS](https://www.acmicpc.net/problem/1260) <br>
 [[실버2] 연결 요소의 개수](https://www.acmicpc.net/problem/11724) <br>
 
+### 6주차
+
+#### 큐와 그래프
+
+[[실버1] 단지번호붙이기](https://www.acmicpc.net/problem/2667) <br>
+[[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178) <br>
+[[실버1] 나이트의 이동](https://www.acmicpc.net/problem/7562) <br>
+
+#### BFS
+
+[[실버1] 숨바꼭질](https://www.acmicpc.net/problem/1697) <br>
+[[골드4] 숨바꼭질 4](https://www.acmicpc.net/problem/13913) <br>
+[[골드4] 이모티콘](https://www.acmicpc.net/problem/14226) <br>
+[[골드5] 숨바꼭질3](https://www.acmicpc.net/problem/13549) <br>
+[[골드4] 알고스팟](https://www.acmicpc.net/problem/1261) <br>
+
+#### 시뮬레이션과 구현
+
+[[골드5] 배열 돌리기 3](https://www.acmicpc.net/problem/16935) <br>
+[[실버1] 배열 돌리기 1](https://www.acmicpc.net/problem/16926) <br>
+
+### 7주차
+
+#### 시뮬레이션과 구현
+
+[[골드5] 배열 돌리기 2](https://www.acmicpc.net/problem/16927) <br>
+[[골드4] 주사위 굴리기](https://www.acmicpc.net/problem/14499) <br>
+[[골드3] 경사로](https://www.acmicpc.net/problem/14890) <br>
+
 ## 참고
 
 https://code.plus/course/51
