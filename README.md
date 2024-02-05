@@ -119,63 +119,63 @@ algorithm-study
 
 #### DP
 
-[[실버2] 부분수열의 합](https://www.acmicpc.net/problem/1182) <br>
-[[실버3] 1로 만들기](https://www.acmicpc.net/problem/1463) <br>
-[[실버3] 2xn 타일링](https://www.acmicpc.net/problem/11726) <br>
-[[실버3] 2xn 타일링(2)](https://www.acmicpc.net/problem/11727) <br>
-[[실버3] 1,2,3 더하기](https://www.acmicpc.net/problem/9095) <br>
-[[실버1] 카드 구매하기](https://www.acmicpc.net/problem/11052) <br>
-[[실버1] 카드 구매하기2](https://www.acmicpc.net/problem/16194) <br>
-[[실버2] 1,2,3 더하기 5](https://www.acmicpc.net/problem/15990) <br>
-[[실버1] 쉬운 계단 수](https://www.acmicpc.net/problem/10844) <br>
-[[실버2] 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) <br>
+[24. [실버2] 부분수열의 합](https://www.acmicpc.net/problem/1182) <br>
+[25. [실버3] 1로 만들기](https://www.acmicpc.net/problem/1463) <br>
+[26. [실버3] 2xn 타일링](https://www.acmicpc.net/problem/11726) <br>
+[27. [실버3] 2xn 타일링(2)](https://www.acmicpc.net/problem/11727) <br>
+[28. [실버3] 1,2,3 더하기](https://www.acmicpc.net/problem/9095) <br>
+[29. [실버1] 카드 구매하기](https://www.acmicpc.net/problem/11052) <br>
+[30. [실버1] 카드 구매하기2](https://www.acmicpc.net/problem/16194) <br>
+[31. [실버2] 1,2,3 더하기 5](https://www.acmicpc.net/problem/15990) <br>
+[32. [실버1] 쉬운 계단 수](https://www.acmicpc.net/problem/10844) <br>
+[33. [실버2] 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) <br>
 
 ### 5주차
 
 #### DP
 
-[[실버2] 연속 합](https://www.acmicpc.net/problem/1912) <br>
-[[실버2] 제곱수의 합](https://www.acmicpc.net/problem/1699) <br>
-[[실버2] 1,2,3 더하기 3](https://www.acmicpc.net/problem/15988) <br>
-[[실버1] RGB거리](https://www.acmicpc.net/problem/1149) <br>
-[[실버1] 동물원](https://www.acmicpc.net/problem/1309) <br>
-[[실버1] 오르막 수](https://www.acmicpc.net/problem/11057) <br>
+[34. [실버2] 연속 합](https://www.acmicpc.net/problem/1912) <br>
+[35. [실버2] 제곱수의 합](https://www.acmicpc.net/problem/1699) <br>
+[36. [실버2] 1,2,3 더하기 3](https://www.acmicpc.net/problem/15988) <br>
+[37. [실버1] RGB거리](https://www.acmicpc.net/problem/1149) <br>
+[38. [실버1] 동물원](https://www.acmicpc.net/problem/1309) <br>
+[39. [실버1] 오르막 수](https://www.acmicpc.net/problem/11057) <br>
 
 #### 큐와 그래프
 
-[[실버4] 큐](https://www.acmicpc.net/problem/10845) <br>
-[[실버4] 덱](https://www.acmicpc.net/problem/10866) <br>
-[[실버2] DFS와 BFS](https://www.acmicpc.net/problem/1260) <br>
-[[실버2] 연결 요소의 개수](https://www.acmicpc.net/problem/11724) <br>
+[40. [실버4] 큐](https://www.acmicpc.net/problem/10845) <br>
+[41. [실버4] 덱](https://www.acmicpc.net/problem/10866) <br>
+[42. [실버2] DFS와 BFS](https://www.acmicpc.net/problem/1260) <br>
+[43. [실버2] 연결 요소의 개수](https://www.acmicpc.net/problem/11724) <br>
 
 ### 6주차
 
 #### 큐와 그래프
 
-[[실버1] 단지번호붙이기](https://www.acmicpc.net/problem/2667) <br>
-[[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178) <br>
-[[실버1] 나이트의 이동](https://www.acmicpc.net/problem/7562) <br>
+[44. [실버1] 단지번호붙이기](https://www.acmicpc.net/problem/2667) <br>
+[45. [실버1] 미로 탐색](https://www.acmicpc.net/problem/2178) <br>
+[46. [실버1] 나이트의 이동](https://www.acmicpc.net/problem/7562) <br>
 
 #### BFS
 
-[[실버1] 숨바꼭질](https://www.acmicpc.net/problem/1697) <br>
-[[골드4] 숨바꼭질 4](https://www.acmicpc.net/problem/13913) <br>
-[[골드4] 이모티콘](https://www.acmicpc.net/problem/14226) <br>
-[[골드5] 숨바꼭질3](https://www.acmicpc.net/problem/13549) <br>
-[[골드4] 알고스팟](https://www.acmicpc.net/problem/1261) <br>
+[47. [실버1] 숨바꼭질](https://www.acmicpc.net/problem/1697) <br>
+[48. [골드4] 숨바꼭질 4](https://www.acmicpc.net/problem/13913) <br>
+[49. [골드4] 이모티콘](https://www.acmicpc.net/problem/14226) <br>
+[50. [골드5] 숨바꼭질3](https://www.acmicpc.net/problem/13549) <br>
+[51. [골드4] 알고스팟](https://www.acmicpc.net/problem/1261) <br>
 
 #### 시뮬레이션과 구현
 
-[[골드5] 배열 돌리기 3](https://www.acmicpc.net/problem/16935) <br>
-[[실버1] 배열 돌리기 1](https://www.acmicpc.net/problem/16926) <br>
+[52. [골드5] 배열 돌리기 3](https://www.acmicpc.net/problem/16935) <br>
+[53. [실버1] 배열 돌리기 1](https://www.acmicpc.net/problem/16926) <br>
 
 ### 7주차
 
 #### 시뮬레이션과 구현
 
-[[골드5] 배열 돌리기 2](https://www.acmicpc.net/problem/16927) <br>
-[[골드4] 주사위 굴리기](https://www.acmicpc.net/problem/14499) <br>
-[[골드3] 경사로](https://www.acmicpc.net/problem/14890) <br>
+[54. [골드5] 배열 돌리기 2](https://www.acmicpc.net/problem/16927) <br>
+[55. [골드4] 주사위 굴리기](https://www.acmicpc.net/problem/14499) <br>
+[56. [골드3] 경사로](https://www.acmicpc.net/problem/14890) <br>
 
 ## 참고
 
