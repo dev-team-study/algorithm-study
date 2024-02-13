@@ -3,7 +3,7 @@ package changhyeon;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+public class PRO_의상 {
 
     public int solution(String[][] clothes) {
         int sum = 1;
