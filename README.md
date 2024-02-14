@@ -177,6 +177,22 @@ algorithm-study
 [55. [골드4] 주사위 굴리기](https://www.acmicpc.net/problem/14499) <br>
 [56. [골드3] 경사로](https://www.acmicpc.net/problem/14890) <br>
 
+### 8주차
+
+#### 시뮬레이션과 구현
+
+[[골드5] 톱니바퀴(2)](https://www.acmicpc.net/problem/15662) <br>
+[[골드5] 로봇청소기](https://www.acmicpc.net/problem/14503) <br>
+[[실버2] LCD Test](https://www.acmicpc.net/problem/2290) <br>
+[[실버2] 겉넓이 구하기](https://www.acmicpc.net/problem/16931) <br>
+[[실버3] 배열 복원하기](https://www.acmicpc.net/problem/16967) <br>
+[[골드5] 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) <br>
+
+#### 해시
+
+[[레벨1] 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) <br>
+[[레벨1] 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) <br>
+
 ## 참고
 
 https://code.plus/course/51
