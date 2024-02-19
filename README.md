@@ -193,6 +193,22 @@ algorithm-study
 [63. [레벨1] 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) <br>
 [64. [레벨1] 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) <br>
 
+### 9주차
+
+#### 해시
+
+[66. [레벨2] 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+[66. [레벨2] 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) <br>
+[67. [레벨3] 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) <br>
+
+#### 스택/큐
+
+[68. [레벨1] 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+[69. [레벨2] 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+[70. [레벨2] 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+[71. [레벨2] 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+[72. [레벨2] 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+
 ## 참고
 
 https://code.plus/course/51
