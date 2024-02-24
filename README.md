@@ -197,17 +197,38 @@ algorithm-study
 
 #### 해시
 
-[66. [레벨2] 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+[66. [레벨2] 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) <br>
 [66. [레벨2] 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) <br>
 [67. [레벨3] 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) <br>
 
 #### 스택/큐
 
-[68. [레벨1] 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
-[69. [레벨2] 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
-[70. [레벨2] 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
-[71. [레벨2] 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
-[72. [레벨2] 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+[68. [레벨1] 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) <br>
+[69. [레벨2] 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) <br>
+[70. [레벨2] 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) <br>
+[71. [레벨2] 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) <br>
+[72. [레벨2] 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) <br>
+
+### 10주차
+
+#### 힙
+
+[73. [레벨2] 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) <br>
+[74. [레벨3] 디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) <br>
+[75. [레벨3] 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) <br>
+
+#### 정렬
+
+[76. [레벨1] K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) <br>
+[77. [레벨2] 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) <br>
+[78. [레벨2] H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) <br>
+
+#### 완전탐색
+
+[79. [레벨2] 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) <br>
+[80. [레벨2] 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) <br>
+[81. [레벨2] 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) <br>
+[82. [레벨2] 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) <br>
 
 ## 참고
 
