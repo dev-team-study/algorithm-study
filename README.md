@@ -230,6 +230,28 @@ algorithm-study
 [81. [레벨2] 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) <br>
 [82. [레벨2] 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) <br>
 
+### 11주차
+
+#### 완전탐색
+
+[[레벨2] 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) <br>
+
+#### 탐욕법
+
+[[레벨1] 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) <br>
+[[레벨2] 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) <br>
+[[레벨2] 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) <br>
+[[레벨2] 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) <br>
+[[레벨3] 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) <br>
+
+#### 동적계획법
+
+[[레벨3] N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
+
+#### DFS/BFS
+
+[[레벨3] 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+
 ## 참고
 
 https://code.plus/course/51
